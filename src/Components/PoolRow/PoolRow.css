@@ -1,0 +1,21 @@
+.flexBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flexItem {
+  display: flex;
+}
+
+.equalFlex {
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+.flexColumn {
+  flex-direction: column;
+}
+.flexRow {
+  flex-direction: row;
+}

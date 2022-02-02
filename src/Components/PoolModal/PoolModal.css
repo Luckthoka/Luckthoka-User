@@ -1,0 +1,8 @@
+.poolModal .modal-content {
+  background-image: linear-gradient(#ffd400, #d93013);
+}
+
+.flexBox_modal {
+  display: flex;
+  flex-direction: column;
+}

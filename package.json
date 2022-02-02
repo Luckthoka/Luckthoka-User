@@ -1,0 +1,57 @@
+{
+  "name": "luckthoka",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@binance-chain/bsc-use-wallet": "^0.8.1",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@fontsource/roboto": "^4.5.1",
+    "@mui/icons-material": "^5.3.0",
+    "@mui/lab": "^5.0.0-alpha.65",
+    "@mui/material": "^5.3.0",
+    "@mui/styles": "^5.3.0",
+    "@mui/x-data-grid-generator": "^5.3.0",
+    "@mui/x-data-grid-pro": "^5.3.0",
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.0.32",
+    "material-ui-colors": "^1.0.0",
+    "notistack": "^2.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-player": "^2.9.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.2",
+    "web3": "^1.6.1",
+    "web3modal": "1.9.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

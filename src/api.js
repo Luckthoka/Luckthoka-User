@@ -1,0 +1,9 @@
+export const baseUrl = process.env.REACT_APP_BASE_URL;
+export const getPageContent = `${baseUrl}/admin/get-page-content`;
+export const getLatestPool = `${baseUrl}/admin/get-latest-pool`;
+export const getPools = `${baseUrl}/admin/get-pools`;
+export const getMiniPools = `${baseUrl}/admin/get-mini-pools`;
+export const getLatestMiniPool = `${baseUrl}/admin/get-latest-mini-pool`;
+export const addUserToPool = `${baseUrl}/user/add-user-pool`;
+export const getUserWithWalletId = `${baseUrl}/user/get-user-with-wallet-id`;
+export const getActiveMiniPools = `${baseUrl}/admin/get-active-mini-pools`;
